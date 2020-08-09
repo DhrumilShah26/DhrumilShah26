@@ -4,10 +4,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web applications and quick hacks.
-- 🎓 &nbsp; Studying Masters of Applied Computing at University of Windsor.
-- 💼 &nbsp; 6 month of experience Working as a Full-stack web development Intern.
+- 🎓 &nbsp; Pursuing Masters of Applied Computing at University of Windsor.
 - 🌱 &nbsp; Learning more about ML/AI and new technologies and frameworks used for Full-stack development.
-- ✍️ &nbsp; You will see me reading books, cooking and playing football in recreational time.
+- ✍️ &nbsp; You will see me watching netflix, listening music, cooking and playing cricket in recreational time.
 
 <h3> Connect with Me </h3>
 
@@ -15,7 +14,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://DhrumilShah26.github.io/
+[website]: https://DhrumilShah26.github.io/eportfolio/
 [twitter]: https://twitter.com/Dhrumil_shah_
 [linkedin]: https://www.linkedin.com/in/dhrumilshah26
 <br/>
